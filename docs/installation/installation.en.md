@@ -21,7 +21,7 @@ Then just run `npm install bem`.
 
  * Install [bem-tools](https://bem.info/tools/bem/bem-tools/):
 
-        npm install bem
+        npm install bem -g
 
  * To install the latest version of `bem-tools` run:
 
